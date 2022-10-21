@@ -3,12 +3,12 @@ using namespace std;
 
 int main()
 {
-    
+    // Abdul basit. class BsCs section (D) 
     int a;
     int b;
     char op;
-    bool loop = 1;
-    while(loop=1)
+    Bool loop=1;
+    while(loop)
     {
       cout<<"Enter your first number"<<endl;
     cin>>a;
@@ -35,7 +35,7 @@ int main()
      if (a,b==char())
     cout<<" wrong input";
     else 
-    loop = 0;
+    loop = 0; to say
     
       }
    cout <<"invalid input";
