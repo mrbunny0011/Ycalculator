@@ -7,7 +7,7 @@ int main()
     int a;
     int b;
     char op;
-    Bool loop=1;
+    bool loop=1;
     while(loop)
     {
       cout<<"Enter your first number"<<endl;
