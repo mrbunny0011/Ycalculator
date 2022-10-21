@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    // Abdul basit. class BsCs section (D) 
+    // Abdul basit. class BsCs section (D)Roll number 26.
     int a;
     int b;
     char op;
@@ -35,7 +35,7 @@ int main()
      if (a,b==char())
     cout<<" wrong input";
     else 
-    loop = 0; to say
+    loop = 0; 
     
       }
    cout <<"invalid input";
